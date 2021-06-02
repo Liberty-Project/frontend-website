@@ -1,0 +1,17 @@
+.navbar-brand {
+  max-width: 200px;
+}
+
+a.soon {
+  position: relative;
+
+  &:after {
+    content: 'Coming Soon';
+    position: absolute;
+    bottom: -16px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: .55em;
+    font-weight: lighter;
+  }
+}
