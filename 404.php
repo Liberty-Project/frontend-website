@@ -2,47 +2,28 @@
 <html lang="en">
 
 <head>
-   
+
     <!--====== Required meta tags ======-->
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
+
     <!--====== Title ======-->
-    <title>Crypten – Cryptocurrency & ICO HTML Template</title>
-    
+    <title>Liberty – The First Decentralized Democracy Platform</title>
+
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/png">
+    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/png">
 
-    <!--====== Bootstrap css ======-->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    
-    <!--====== Fontawesome css ======-->
-    <link rel="stylesheet" href="assets/css/all.css">
-    
-    <!--====== nice select css ======-->
-    <link rel="stylesheet" href="assets/css/nice-select.css">
-    
-    <!--====== Slick css ======-->
-    <link rel="stylesheet" href="assets/css/slick.css">
-
-    <!--====== Swiper css ======-->
-    <link rel="stylesheet" href="assets/css/swiper.min.css">
-    
-    <!--====== Default css ======-->
-    <link rel="stylesheet" href="assets/css/default.css">
-    
     <!--====== Style css ======-->
-    <link rel="stylesheet" href="assets/css/style.css">
-  
-  
+    <link rel="stylesheet" href="assets/css/main.css">
+
 </head>
 
 <body>
-   
+
     <!--====== ERROR PART START ======-->
-    
+
     <section class="error-area bg_cover" style="background-image: url(assets/images/error-bg.jpg);">
         <div class="container">
             <div class="row">
@@ -60,10 +41,10 @@
             </div>
         </div>
     </section>
-    
+
     <!--====== ERROR PART ENDS ======-->
-    
-    
+
+
     <!--====== jquery js ======-->
     <script src="assets/js/vendor/modernizr-3.6.0.min.js"></script>
     <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
@@ -71,22 +52,22 @@
     <!--====== Bootstrap js ======-->
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/popper.min.js"></script>
-    
+
     <!--====== Slick js ======-->
     <script src="assets/js/slick.min.js"></script>
 
     <!--====== Swiper js ======-->
     <script src="assets/js/swiper.min.js"></script>
-    
+
     <!--====== nice select js ======-->
     <script src="assets/js/jquery.nice-select.min.js"></script>
-    
+
     <!--====== circle progress js ======-->
     <script src="assets/js/circle-progress.min.js"></script>
-    
+
     <!--====== Images Loaded js ======-->
     <script src="assets/js/jquery.syotimer.min.js"></script>
-    
+
     <!--====== Main js ======-->
     <script src="assets/js/main.js"></script>
 
