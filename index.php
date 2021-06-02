@@ -960,7 +960,7 @@
                                                 <div class="inner">
                                                     <p>
                                                         LIBER Token is already available on PancakeSwap.
-                                                        You could find us with this contract token: 0x000000000000000000000000000000000000000000
+                                                        You could find us with this contract token: 0x8c6ab0a9d7033F67Bf8b30f8292c2972711328B5
                                                     </p>
                                                 </div><!-- /.inner -->
                                             </div>
